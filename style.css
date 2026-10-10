@@ -907,4 +907,8 @@ p {
   .footer__logo {
     width: 5rem;
   }
+  .hero ,.hero__inner {
+  align-items: center;
+  }
+
 }
