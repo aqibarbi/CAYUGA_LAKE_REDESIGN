@@ -597,6 +597,10 @@ p {
   width: 6rem;
   margin-bottom: 2.5rem;
 }
+.footer__logo-wrap{
+  display: flex;
+    justify-content: center;
+}
 .cols {
   display: flex;
   flex-wrap: wrap;
@@ -610,7 +614,7 @@ p {
 }
 .col--touch {
   flex: 1.6 1 18rem !important;
-  align-items: flex-start;
+  align-items: center;
   gap: 1.25rem !important;
 }
 .footer h3 {
