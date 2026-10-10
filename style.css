@@ -907,7 +907,7 @@ p {
   .footer__logo {
     width: 5rem;
   }
-  .hero ,.hero__inner {
+  .hero ,.hero__inner, .text ,.strip .row ,.panel  {
   align-items: center;
   }
 
