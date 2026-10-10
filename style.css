@@ -613,7 +613,7 @@ p {
   gap: 1.75rem;
   align-items: center;
 }
-.col nav{
+.col nav,.col ul{
     display: flex;
     flex-direction: column;
     align-items: center;
