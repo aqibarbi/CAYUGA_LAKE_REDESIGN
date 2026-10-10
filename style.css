@@ -611,6 +611,12 @@ p {
   display: flex;
   flex-direction: column;
   gap: 1.75rem;
+  align-items: center;
+}
+.col nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 .col--touch {
   flex: 1.6 1 18rem !important;
