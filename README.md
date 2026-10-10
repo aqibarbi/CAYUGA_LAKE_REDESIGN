@@ -8,7 +8,7 @@ I first built this page as a practice exercise, recreating my mentor's [referenc
 
 | Before | After |
 | :---: | :---: |
-| ![Before: my first practice build](screenshots/before.png) | ![After: my redesign](screenshots/after.png) |
+| ![Before: my first practice build](screenshots/before.webp) | ![After: my redesign](screenshots/after.webp) |
 | [Live version](https://cayuga-lake-flex.netlify.app/) | Open `index.html` locally |
 
 ### What changed
