@@ -857,7 +857,7 @@ p {
 }
 
 /* Stack columns */
-@media (max-width: 52rem) {
+@media (max-width: 786px) {
   .row,
   .row--flip {
     flex-direction: column;
